@@ -1,3 +1,7 @@
 From. 그린컴퓨터아카데미  
 **Java&Springboot 크로스 플랫폼(풀스택) 융합 응용 sw 개발자 양성과정** 훈련을 6개월 간 이수하여  
 강의를 통해 습득한 언어 및 기술들을 모아 둔 저장소
+<br>
+<br>
+From. Green Computer Academy
+A repository showcasing the languages and tech stacks learned during my 6-month full-stack SW developer training program (Java & Spring Boot Cross-Platform).
